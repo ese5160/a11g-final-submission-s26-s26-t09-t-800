@@ -14,7 +14,7 @@
 **GitHub Repository URL: https://github.com/ese5160/final-project-firmware-s26-t09-t-800.git**
 
 ## 1. Video Presentation
-
+https://youtu.be/R7WaTvM5qOs
 ## 2. Project Summary
 
 **2.1 Device Description**
