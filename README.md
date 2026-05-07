@@ -25,7 +25,7 @@ We first locate what functions are necessary for an IoT environmental device reg
 
 Our sensors are picked to have enough precision, low power consumption, and try to be a SMD sensor to save space. Our display is chosen to be an E-Ink display to save power, it can keep what is on the screen even if it is powered off. A solar panel is selected to charge the LiPO for long lasting purpose. A buzzer is chosen to play music when the system start/restart.
 
-![block diagram](images\final-final-block.png)
+![block diagram](images/final-final-block.png)
 
 **2.3 Challenges**
 
@@ -84,21 +84,21 @@ PCBA project: https://upenn-eselabs.365.altium.com/designs/82AC7F5B-175C-4F1C-8C
 | SRS-06 | The device should enter Deep Sleep mode between measurement intervals to save battery, waking up only by RTC or an interrupt. | Partially met. Low-power mode was considered but not fully validated. |
 
 ## 4. Project Photos & Screenshots
-![f1](images\f41.jpeg)
-![f2](images\f42.jpeg)
-![f3](images\f43.jpeg)
-![f4](images\f44.jpeg)
-![f5](images\f45.jpg)
-![f6](images\5.jpeg)
-![f7](images\6.jpeg)
-![f8](images\11.jpeg)
-![f9](images\pcb-2d.png)
-![f10](images\pcb-2d1.png)
-![f11](images\pcb-3d1.png)
-![f12](images\pcb-3d2.png)
-![f13](images\f46.jpeg)
-![f14](images\f47.png)
-![f15](images\final-final-block.png)
+![f1](images/f41.jpeg)
+![f2](images/f42.jpeg)
+![f3](images/f43.jpeg)
+![f4](images/f44.jpeg)
+![f5](images/f45.jpg)
+![f6](images/5.jpeg)
+![f7](images/6.jpeg)
+![f8](images/11.jpeg)
+![f9](images/pcb-2d.png)
+![f10](images/pcb-2d1.png)
+![f11](images/pcb-3d1.png)
+![f12](images/pcb-3d2.png)
+![f13](images/f46.jpeg)
+![f14](images/f47.png)
+![f15](images/final-final-block.png)
 
 ## 5. Codebase
 Final embedded C firmware codebase: https://github.com/ese5160/final-project-firmware-s26-t09-t-800.git
